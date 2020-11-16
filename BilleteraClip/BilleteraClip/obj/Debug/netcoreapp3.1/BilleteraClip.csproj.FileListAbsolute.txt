@@ -1,0 +1,13 @@
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\bin\Debug\netcoreapp3.1\BilleteraClip.exe
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\bin\Debug\netcoreapp3.1\BilleteraClip.deps.json
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\bin\Debug\netcoreapp3.1\BilleteraClip.runtimeconfig.json
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\bin\Debug\netcoreapp3.1\BilleteraClip.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\bin\Debug\netcoreapp3.1\BilleteraClip.dll
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\bin\Debug\netcoreapp3.1\BilleteraClip.pdb
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.dll
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.pdb
+C:\Users\Maxi\source\repos\maxi2049\Repo-Prueba\BilleteraClip\BilleteraClip\obj\Debug\netcoreapp3.1\BilleteraClip.genruntimeconfig.cache
